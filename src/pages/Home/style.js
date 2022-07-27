@@ -2,8 +2,7 @@ import styled from "styled-components";
 
 
 export const Container = styled.div`
-background-color:red;
-color: black;
+background-color: red;
 width: 1000px;
 `
 export const Cima = styled.div`
