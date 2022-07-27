@@ -5,7 +5,7 @@ function Profile(){
     return(
         <>
          <Container>
-            <div></div>
+            <div>data profile</div>
          </Container>
         </>
     )
