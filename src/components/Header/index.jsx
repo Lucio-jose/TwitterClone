@@ -21,7 +21,7 @@ return(
         </nav>
         <img src={Img03} alt="Logo" />
         <div class="side">
-          <input type="search" placeholder="Search on App12" />
+          <input type="search" placeholder="Search Twitter" />
           <img src={Img04} alt="Avatar" />
           <button>Tweet</button>
         </div>

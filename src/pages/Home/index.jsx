@@ -1,13 +1,18 @@
 import React from "react";
-import{Container} from './style.js'
-import  Header  from "../../components/Header/index"; 
+import{Container, Cima} from './style.js'
+import  Header from "../../components/Header/index"; 
+import Profile from "../../components/Profile/index.jsx";
 
 function Home(){
 return(
     <> 
     <Container>
     <Header/>
-     <h2>Ola Mundo</h2>
+        <Cima>
+     <Profile/>
+     <span>Center</span>
+     <h3>Right</h3>
+     </Cima>
      </Container>
     </>
 )
