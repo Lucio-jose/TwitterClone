@@ -46,6 +46,8 @@ margin-top: 10px;
                 height: 30px;
                 border: none;
                 border-radius: 10px;
+                color: white;
+                font-weight: 600;
             }
         }
     }
