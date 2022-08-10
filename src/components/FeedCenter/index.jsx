@@ -12,7 +12,7 @@ function Feed(){
             </div>
             <div className="main-feed">
                 <div>
-                    <h2>Ola Mundo twitter</h2>
+                    <h2>Olaa Mundo twitter</h2>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lúcio José</p>
                     <button>Find people to follow</button>
                 </div>
